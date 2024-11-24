@@ -1,5 +1,3 @@
----
-
 # Image Resizer Pro
 
 **Image Resizer Pro** is a Python-based GUI application that allows users to easily resize multiple images at once. It offers the ability to select images, specify output dimensions (width and height), and optionally maintain the aspect ratio. The resized images are saved in a specified output directory.
