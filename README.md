@@ -62,11 +62,11 @@
 
 **Splash Screen**:
 
-![image alt]([screenshots/splash_screen.png](https://github.com/Garvitsharma-gs/Image-Resizer-/blob/e4144d063c119ac3f9806a98f6f83798b7a37844/Screenshot%2024-11-2024%2005_58_00.png))
+![image alt](https://github.com/Garvitsharma-gs/Image-Resizer-/blob/e4144d063c119ac3f9806a98f6f83798b7a37844/Screenshot%2024-11-2024%2005_58_00.png)
 
 **Main Window**:
 
-![image alt][(screenshots/main_window.png](https://github.com/Garvitsharma-gs/Image-Resizer-/blob/e4144d063c119ac3f9806a98f6f83798b7a37844/resize.py%20-%20Visual%20Studio%20Code%20%5BAdministrator%5D%2024-11-2024%2006_01_04.png))
+![image alt](https://github.com/Garvitsharma-gs/Image-Resizer-/blob/e4144d063c119ac3f9806a98f6f83798b7a37844/resize.py%20-%20Visual%20Studio%20Code%20%5BAdministrator%5D%2024-11-2024%2006_01_04.png))
 
 ---
 
